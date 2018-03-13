@@ -1,0 +1,7 @@
+D:\Programming\Javascript\helloworld\dns_resolver\dns_resolver\obj\Debug\dns_resolver.csprojResolveAssemblyReference.cache
+D:\Programming\Javascript\helloworld\dns_resolver\dns_resolver\obj\Debug\dns_resolver.csproj.CoreCompileInputs.cache
+D:\Programming\Javascript\helloworld\dns_resolver\dns_resolver\bin\Debug\dns_resolver.exe.config
+D:\Programming\Javascript\helloworld\dns_resolver\dns_resolver\bin\Debug\dns_resolver.exe
+D:\Programming\Javascript\helloworld\dns_resolver\dns_resolver\bin\Debug\dns_resolver.pdb
+D:\Programming\Javascript\helloworld\dns_resolver\dns_resolver\obj\Debug\dns_resolver.exe
+D:\Programming\Javascript\helloworld\dns_resolver\dns_resolver\obj\Debug\dns_resolver.pdb

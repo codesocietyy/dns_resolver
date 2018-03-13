@@ -10,6 +10,11 @@ namespace dns_resolver
     {
         static void Main(string[] args)
         {
+            init_dns init_dns = new init_dns();
+            Console.WriteLine("Initializing DNS resolver...");
+            init_dns.dns_resolv();
+            Console.ReadKey();
+
         }
     }
 }
